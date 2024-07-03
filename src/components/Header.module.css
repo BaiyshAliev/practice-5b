@@ -1,0 +1,8 @@
+.container button{
+    padding: 16px 90px;
+    background-color: blue;
+    color: white;
+    font-size: 24px;
+    border-radius: 10px;
+    border: none;
+}
